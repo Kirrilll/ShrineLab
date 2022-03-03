@@ -1,6 +1,6 @@
 # shrine
 
-Flutter app build by tutorial on material.io
+Flutter app with login page and home page. Work with themes was based on tutorial at material.io. 
 
 ## Getting Started
 
